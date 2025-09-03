@@ -1,0 +1,547 @@
+#,Deutsch,Anonym,Bedeutung,Beispiel,Meaning
+1,abenteuerlich,langweilig,adventurous,Er unternimmt eine abenteuerliche Reise.,He is going on an adventurous trip.
+2,abgelenkt,konzentriert,distracted,Er war abgelenkt und hat den Fehler gemacht.,He was distracted and made the mistake.
+3,abgeschlossen,offen,"concluded, finished",Das Projekt ist jetzt abgeschlossen.,The project is now concluded.
+4,absichtlich,unabsichtlich,intentional,Er hat es absichtlich gemacht.,He did it intentionally.
+5,aggressiv,friedlich,aggressive,Sein Verhalten war sehr aggressiv.,His behavior was very aggressive.
+6,akademisch,praktisch,academic,Das ist eine akademische Diskussion.,That is an academic discussion.
+7,aktiv,passiv,active,Sie ist eine sehr aktive Sportlerin.,She is a very active athlete.
+8,aktuell,veraltet,"current, up-to-date",Das ist die aktuelle Version.,That is the current version.
+9,allein,zusammen,alone,Er reist gern allein.,He likes to travel alone.
+10,alltäglich,festlich,"everyday, ordinary",Das ist eine alltägliche Sache.,That is an everyday thing.
+11,alt,jung,old,Mein Haus ist sehr alt.,My house is very old.
+12,angenehm,unangenehm,pleasant,Das Wetter ist angenehm.,The weather is pleasant.
+13,angepasst,unangepasst,"adapted, adjusted",Er hat sich schnell angepasst.,He adapted quickly.
+14,anspruchsvoll,anspruchslos,demanding,Die Arbeit ist anspruchsvoll.,The work is demanding.
+15,anständig,unanständig,"decent, proper",Er ist ein anständiger Mann.,He is a decent man.
+16,anstrengend,entspannend,exhausting,Die Arbeit ist sehr anstrengend.,The work is very exhausting.
+17,anwesend,abwesend,present,Alle Schüler waren anwesend.,All students were present.
+18,anziehend,abstoßend,"attractive, appealing",Das Kleid ist sehr anziehend.,The dress is very attractive.
+19,arm,reich,poor,Er ist ein armer Mann.,He is a poor man.
+20,atmosphärisch,sachlich,atmospheric,Die Stimmung im Raum war sehr atmosphärisch.,The atmosphere in the room was very atmospheric.
+21,aufmerksam,unaufmerksam,attentive,Der Hund ist sehr aufmerksam.,The dog is very attentive.
+22,aufregend,langweilig,exciting,Das war ein aufregender Film.,That was an exciting film.
+23,ausführlich,kurz,detailed,Er gab eine ausführliche Erklärung.,He gave a detailed explanation.
+24,ausgeglichen,unausgeglichen,balanced,Sie ist eine sehr ausgeglichene Person.,She is a very balanced person.
+25,ausgezeichnet,schlecht,excellent,Das Essen war ausgezeichnet.,The food was excellent.
+26,ausschließlich,einschließlich,exclusive,Das ist ein ausschließliches Recht.,That is an exclusive right.
+27,begabt,unbegabt,"talented, gifted",Er ist musikalisch sehr begabt.,He is very talented in music.
+28,begehrt,unbeliebt,sought-after,Dieses Produkt ist sehr begehrt.,This product is very sought-after.
+29,begeistert,gelangweilt,excited,Sie ist begeistert von der Idee.,She is excited about the idea.
+30,bekannt,unbekannt,well-known,Sie ist eine bekannte Schauspielerin.,She is a well-known actress.
+31,bekümmert,froh,"worried, distressed",Sie sah bekümmert aus.,She looked distressed.
+32,beladen,unbeladen,loaded,Das Schiff ist beladen.,The ship is loaded.
+33,belastbar,schwach,"resilient, durable",Das Material ist sehr belastbar.,The material is very durable.
+34,beliebt,unbeliebt,popular,Er ist bei allen beliebt.,He is popular with everyone.
+35,bequem,unbequem,comfortable,Das Sofa ist sehr bequem.,The sofa is very comfortable.
+36,bereit,unvorbereitet,ready,Bist du schon bereit?,Are you ready yet?
+37,beruflich,privat,professional,Ich bin beruflich unterwegs.,I am traveling for professional reasons.
+38,berühmt,unbekannt,famous,Das ist ein berühmtes Gebäude.,That is a famous building.
+39,bescheiden,arrogant,modest,"Er ist reich, aber bescheiden.","He is rich, but modest."
+40,besser,schlechter,better,Das ist ein besserer Plan.,That is a better plan.
+41,beteiligt,unbeteiligt,involved,Er war am Unfall beteiligt.,He was involved in the accident.
+42,betrunken,nüchtern,drunk,Er war gestern Abend betrunken.,He was drunk last night.
+43,bewölkt,sonnig,cloudy,Heute ist es bewölkt.,It is cloudy today.
+44,billig,teuer,cheap,Das T-Shirt war sehr billig.,The T-shirt was very cheap.
+45,biologisch,chemisch,biological,Wir kaufen biologisches Gemüse.,We buy organic vegetables.
+46,bitter,süß,bitter,Der Kaffee ist bitter.,The coffee is bitter.
+47,blass,rosig,pale,Nach der Krankheit war sie sehr blass.,"After the illness, she was very pale."
+48,blind,sehend,blind,Er ist blind geboren.,He was born blind.
+49,blöd,klug,"stupid, silly",Das ist eine blöde Idee.,That is a stupid idea.
+50,böse,gutartig,"angry, evil",Er ist böse auf mich.,He is angry at me.
+51,brav,frech,well-behaved,Das ist ein braves Kind.,That is a well-behaved child.
+52,breit,schmal,wide,Die Straße ist breit.,The street is wide.
+53,brutal,sanft,brutal,Das war ein brutaler Kampf.,That was a brutal fight.
+54,bunt,einfarbig,colorful,Das Bild ist sehr bunt.,The picture is very colorful.
+55,chaotisch,ordentlich,chaotic,Sein Zimmer ist chaotisch.,His room is chaotic.
+56,dankbar,undankbar,grateful,Ich bin dir sehr dankbar.,I am very grateful to you.
+57,demokratisch,diktatorisch,democratic,Das ist ein demokratisches Land.,That is a democratic country.
+58,deutsch,ausländisch,German,Er spricht Deutsch.,He speaks German.
+59,dick,dünn,"thick, fat",Das Buch ist sehr dick.,The book is very thick.
+60,doof,klug,silly,Das war eine doofe Frage.,That was a silly question.
+61,doppelt,einfach,double,Ich sehe alles doppelt.,I see everything double.
+62,dringend,unwichtig,urgent,Ich habe eine dringende Frage.,I have an urgent question.
+63,dumm,klug,dumb,Das war eine dumme Entscheidung.,That was a dumb decision.
+64,dunkel,hell,dark,Es ist schon dunkel draußen.,It's already dark outside.
+65,durchsichtig,undurchsichtig,transparent,Das Glas ist durchsichtig.,The glass is transparent.
+66,dürr,fett,"scrawny, withered",Der Baum ist dürr.,The tree is withered.
+67,ehrlich,unehrlich,honest,Er ist ein ehrlicher Mensch.,He is an honest person.
+68,eifersüchtig,zufrieden,jealous,Er ist eifersüchtig auf seinen Bruder.,He is jealous of his brother.
+69,eigenartig,normal,peculiar,Er hat eine eigenartige Art.,He has a peculiar way about him.
+70,einfach,schwierig,easy,Die Aufgabe ist einfach.,The task is easy.
+71,einfühlsam,gefühllos,empathetic,Sie ist eine einfühlsame Freundin.,She is an empathetic friend.
+72,einig,uneinig,"united, agreed",Wir sind uns einig.,We are agreed.
+73,einsam,gesellig,lonely,Er fühlt sich einsam.,He feels lonely.
+74,einzeln,gemeinsam,"single, individual",Er hat jeden einzeln befragt.,He questioned each one individually.
+75,einzigartig,gewöhnlich,unique,Das ist ein einzigartiges Erlebnis.,That is a unique experience.
+76,elegant,ungepflegt,elegant,Sie trägt ein elegantes Kleid.,She is wearing an elegant dress.
+77,elektrisch,manuell,electric,Das ist eine elektrische Zahnbürste.,That is an electric toothbrush.
+78,elend,glücklich,miserable,Sie sieht elend aus.,She looks miserable.
+79,emotional,sachlich,emotional,Er reagierte sehr emotional.,He reacted very emotionally.
+80,empfindlich,unempfindlich,sensitive,Er hat eine empfindliche Haut.,He has sensitive skin.
+81,eng,weit,narrow,Die Hose ist zu eng.,The pants are too tight.
+82,entschieden,unentschlossen,decisive,Sie ist eine entschiedene Persönlichkeit.,She is a decisive person.
+83,entspannt,angespannt,relaxed,Ich fühle mich entspannt.,I feel relaxed.
+84,erfahren,unerfahren,experienced,Sie ist eine erfahrene Lehrerin.,She is an experienced teacher.
+85,erfolgreich,erfolglos,successful,Er ist ein erfolgreicher Künstler.,He is a successful artist.
+86,ernst,locker,serious,Das ist eine ernste Situation.,That is a serious situation.
+87,erstaunlich,gewöhnlich,astonishing,Das Ergebnis ist erstaunlich.,The result is astonishing.
+88,ethisch,unethisch,ethical,Das ist eine ethische Frage.,That is an ethical question.
+89,falsch,richtig,wrong,Die Antwort ist falsch.,The answer is wrong.
+90,fantastisch,schrecklich,fantastic,Der Urlaub war fantastisch.,The vacation was fantastic.
+91,faul,fleißig,lazy,Er ist zu faul zum Aufräumen.,He is too lazy to clean up.
+92,festlich,alltäglich,festive,Sie trägt eine festliche Kleidung.,She is wearing a festive outfit.
+93,fit,unfit,fit,Er ist sehr fit.,He is very fit.
+94,flach,tief,flat,Die Landschaft ist flach.,The landscape is flat.
+95,fleißig,faul,diligent,Sie ist eine fleißige Studentin.,She is a diligent student.
+96,fließend,stockend,fluent,Er spricht fließend Deutsch.,He speaks fluent German.
+97,flüssig,fest,liquid,Wasser ist flüssig.,Water is liquid.
+98,formell,informell,formal,Das ist ein formelles Treffen.,That is a formal meeting.
+99,frech,brav,cheeky,Das Kind ist frech.,The child is cheeky.
+100,frei,besetzt,free,Ist der Platz noch frei?,Is the seat still free?
+101,fremd,bekannt,foreign,Das ist eine fremde Stadt.,That is a foreign city.
+102,freundlich,unfreundlich,friendly,Sie ist eine freundliche Person.,She is a friendly person.
+103,frisch,alt,fresh,Das Brot ist ganz frisch.,The bread is very fresh.
+104,fröhlich,traurig,cheerful,Sie hat ein fröhliches Lachen.,She has a cheerful laugh.
+105,fruchtbar,unfruchtbar,fertile,Der Boden ist sehr fruchtbar.,The soil is very fertile.
+106,funktionsfähig,defekt,functional,Das Gerät ist funktionsfähig.,The device is functional.
+107,ganz,kaputt,"whole, entire",Das ist der ganze Kuchen.,That is the whole cake.
+108,geduldig,ungeduldig,patient,Er ist ein geduldiger Lehrer.,He is a patient teacher.
+109,gefährlich,sicher,dangerous,Die Straße ist gefährlich.,The road is dangerous.
+110,gefühllos,einfühlsam,emotionless,Er ist gefühllos.,He is emotionless.
+111,geheim,öffentlich,secret,Das ist eine geheime Information.,That is a secret information.
+112,geheimnisvoll,offen,mysterious,Er hat eine geheimnisvolle Aura.,He has a mysterious aura.
+113,gelb,blau (as in colors),yellow,Die Sonne ist gelb.,The sun is yellow.
+114,gemeinsam,einzeln,"common, together",Wir haben ein gemeinsames Ziel.,We have a common goal.
+115,gemütlich,ungemütlich,cozy,Das Zimmer ist sehr gemütlich.,The room is very cozy.
+116,genau,ungenau,exact,Die Uhrzeit ist genau 10 Uhr.,The time is exactly 10 o'clock.
+117,genial,dumm,brilliant,Das ist eine geniale Idee.,That is a brilliant idea.
+118,genug,zu wenig,enough,Das ist genug für alle.,That is enough for everyone.
+119,genügsam,anspruchsvoll,content,Er ist ein genügsamer Mensch.,He is a content person.
+120,gerecht,ungerecht,"just, fair",Das ist ein gerechter Preis.,That is a fair price.
+121,gesellig,einsam,sociable,Er ist ein geselliger Mensch.,He is a sociable person.
+122,gespannt,entspannt,"tense, excited",Ich bin gespannt auf das Ergebnis.,I am excited for the result.
+123,gesperrt,offen,blocked,Die Straße ist gesperrt.,The street is blocked.
+124,gestrig,heutig,yesterday's,Die gestrige Zeitung.,The yesterday's newspaper.
+125,gesund,krank,healthy,Obst ist sehr gesund.,Fruit is very healthy.
+126,gewiss,ungewiss,certain,Er ist des Sieges gewiss.,He is certain of victory.
+127,gewöhnlich,ungewöhnlich,ordinary,Das ist ein gewöhnlicher Tag.,That is an ordinary day.
+128,glatt,rau,smooth,Die Straße ist glatt.,The road is smooth.
+129,gleichgültig,interessiert,indifferent,Er ist gleichgültig gegenüber dem Problem.,He is indifferent to the problem.
+130,glücklich,unglücklich,happy,Ich bin sehr glücklich.,I am very happy.
+131,goldig,gruselig,adorable,Das Kätzchen ist goldig.,The kitten is adorable.
+132,grob,fein,"rough, coarse",Das ist ein grober Fehler.,That is a rough mistake.
+133,groß,klein,big,Er ist ein großer Mann.,He is a big man.
+134,großzügig,geizig,generous,Er ist sehr großzügig.,He is very generous.
+135,gründlich,oberflächlich,thorough,Ich habe eine gründliche Reinigung gemacht.,I did a thorough cleaning.
+136,gut,schlecht,good,Das ist ein guter Plan.,That is a good plan.
+137,hart,weich,hard,Der Stein ist hart.,The stone is hard.
+138,heftig,sanft,fierce,Der Sturm war heftig.,The storm was fierce.
+139,heimlich,öffentlich,secret,Er hat ein heimliches Treffen.,He has a secret meeting.
+140,heiß,kalt,hot,Das Wasser ist heiß.,The water is hot.
+141,hell,dunkel,bright,Das Zimmer ist sehr hell.,The room is very bright.
+142,herrlich,schrecklich,wonderful,Das Wetter ist herrlich.,The weather is wonderful.
+143,herzlich,kalt,"warm, cordial",Ich sende herzliche Grüße.,I send warm greetings.
+144,hilfreich,nutzlos,helpful,Dein Rat war hilfreich.,Your advice was helpful.
+145,hilfsbereit,egoistisch,helpful,Sie ist sehr hilfsbereit.,She is very helpful.
+146,hoch,niedrig,high,Der Berg ist sehr hoch.,The mountain is very high.
+147,hoffnungsvoll,hoffnungslos,hopeful,Er ist hoffnungsvoll.,He is hopeful.
+148,höflich,unhöflich,polite,Er ist ein höflicher Mann.,He is a polite man.
+149,hohl,voll,hollow,Der Baumstamm ist hohl.,The tree trunk is hollow.
+150,hübsch,hässlich,pretty,Sie hat ein hübsches Gesicht.,She has a pretty face.
+151,humorvoll,humorlos,humorous,Er ist sehr humorvoll.,He is very humorous.
+152,hungrig,satt,hungry,Ich bin sehr hungrig.,I am very hungry.
+153,ideal,ungeeignet,ideal,Das ist die ideale Lösung.,That is the ideal solution.
+154,illegal,legal,illegal,Das ist illegal.,That is illegal.
+155,imaginär,real,imaginary,Das ist ein imaginäres Land.,That is an imaginary country.
+156,immer,nie,always,Er ist immer freundlich.,He is always friendly.
+157,individuell,kollektiv,individual,Das ist eine individuelle Entscheidung.,That is an individual decision.
+158,industriell,ländlich,industrial,Das ist eine industrielle Stadt.,That is an industrial city.
+159,informell,formell,informal,Das war ein informelles Treffen.,That was an informal meeting.
+160,intelligent,dumm,intelligent,Er ist ein intelligenter Schüler.,He is an intelligent student.
+161,interessant,uninteressant,interesting,Das Buch ist sehr interessant.,The book is very interesting.
+162,interessiert,desinteressiert,interested,Ich bin interessiert an Kunst.,I am interested in art.
+163,irgendwelche,keine,any,Haben Sie irgendwelche Fragen?,Do you have any questions?
+164,jugendlich,altmodisch,youthful,Sie hat ein jugendliches Aussehen.,She has a youthful appearance.
+165,juristisch,unjuristisch,legal,Das ist ein juristischer Fall.,That is a legal case.
+166,kalt,heiß,cold,Es ist kalt draußen.,It is cold outside.
+167,kaputt,ganz,broken,Mein Handy ist kaputt.,My phone is broken.
+168,käuflich,unkäuflich,purchasable,Das Produkt ist käuflich.,The product is purchasable.
+169,klar,unklar,clear,Die Anweisungen sind klar.,The instructions are clear.
+170,klein,groß,small,Das Zimmer ist sehr klein.,The room is very small.
+171,klug,dumm,smart,Er ist ein kluger Junge.,He is a smart boy.
+172,knapp,reichlich,scarce,Die Zeit ist knapp.,Time is scarce.
+173,kollektiv,individuell,collective,Das ist eine kollektive Entscheidung.,That is a collective decision.
+174,komfortabel,unbequem,comfortable,Die Schuhe sind komfortabel.,The shoes are comfortable.
+175,komisch,normal,"funny, strange",Das ist ein komischer Zufall.,That is a strange coincidence.
+176,komplett,unvollständig,complete,Die Liste ist komplett.,The list is complete.
+177,kompliziert,einfach,complicated,Die Situation ist kompliziert.,The situation is complicated.
+178,konkret,abstrakt,concrete,Ich brauche eine konkrete Antwort.,I need a concrete answer.
+179,konzentriert,unkonzentriert,concentrated,Er ist sehr konzentriert.,He is very concentrated.
+180,krank,gesund,sick,Er ist krank.,He is sick.
+181,kreativ,unkreativ,creative,Sie ist sehr kreativ.,She is very creative.
+182,kritisch,unkritisch,critical,Er ist sehr kritisch.,He is very critical.
+183,kulturell,unkultiviert,cultural,Das ist ein kulturelles Zentrum.,That is a cultural center.
+184,künstlerisch,unkünstlerisch,artistic,Er hat eine künstlerische Ader.,He has an artistic streak.
+185,künstlich,natürlich,artificial,Die Blume ist künstlich.,The flower is artificial.
+186,kurz,lang,short,Der Weg ist kurz.,The path is short.
+187,kurzfristig,langfristig,short-term,Das ist eine kurzfristige Lösung.,That is a short-term solution.
+188,lang,kurz,long,Der Film ist zu lang.,The film is too long.
+189,langsam,schnell,slow,Er spricht sehr langsam.,He speaks very slowly.
+190,langweilig,spannend,boring,Der Film ist langweilig.,The movie is boring.
+191,launisch,ausgeglichen,moody,Sie ist heute sehr launisch.,She is very moody today.
+192,laut,leise,loud,Die Musik ist zu laut.,The music is too loud.
+193,lebendig,tot,alive,Er ist noch lebendig.,He is still alive.
+194,lecker,ungenießbar,delicious,Das Essen war lecker.,The food was delicious.
+195,ledig,verheiratet,single,Ist er ledig?,Is he single?
+196,leer,voll,empty,Die Flasche ist leer.,The bottle is empty.
+197,legal,illegal,legal,Das ist legal.,That is legal.
+198,leicht,schwer,"easy, light",Die Aufgabe ist leicht.,The task is easy.
+199,leise,laut,quiet,Bitte sei leise.,Please be quiet.
+200,logisch,unlogisch,logical,Deine Argumentation ist logisch.,Your argument is logical.
+201,löslich,unlöslich,soluble,Zucker ist in Wasser löslich.,Sugar is soluble in water.
+202,loyal,illoyal,loyal,Er ist ein loyaler Freund.,He is a loyal friend.
+203,lustig,traurig,funny,Er erzählt lustige Witze.,He tells funny jokes.
+204,mager,fett,"lean, skinny",Das Fleisch ist mager.,The meat is lean.
+205,männlich,weiblich,male,Das ist ein männliches Tier.,That is a male animal.
+206,markant,unauffällig,striking,Er hat eine markante Nase.,He has a striking nose.
+207,mechanisch,manuell,mechanical,Das ist ein mechanisches Problem.,That is a mechanical problem.
+208,merkwürdig,normal,strange,Das ist eine merkwürdige Geschichte.,That is a strange story.
+209,mild,scharf,mild,Das Curry ist mild.,The curry is mild.
+210,missmutig,fröhlich,grumpy,Er ist heute sehr missmutig.,He is very grumpy today.
+211,monoton,abwechslungsreich,monotonous,Die Arbeit ist monoton.,The work is monotonous.
+212,moralisch,unmoralisch,moral,Das ist eine moralische Frage.,That is a moral question.
+213,müde,"fit, wach",tired,Ich bin sehr müde.,I am very tired.
+214,mutig,feige,brave,Sie ist ein mutiges Mädchen.,She is a brave girl.
+215,nachdenklich,gedankenlos,thoughtful,Er ist sehr nachdenklich.,He is very thoughtful.
+216,nachhaltig,kurzlebig,sustainable,Das ist eine nachhaltige Lösung.,That is a sustainable solution.
+217,nachlässig,akribisch,careless,Er ist nachlässig bei seiner Arbeit.,He is careless with his work.
+218,nah,fern,close,Der Supermarkt ist nah.,The supermarket is close.
+219,nass,trocken,wet,Meine Haare sind nass.,My hair is wet.
+220,natürlich,künstlich,natural,Das ist eine natürliche Reaktion.,That is a natural reaction.
+221,neblig,klar,foggy,Es ist neblig draußen.,It is foggy outside.
+222,neidisch,zufrieden,envious,Sie ist neidisch auf seinen Erfolg.,She is envious of his success.
+223,nervös,ruhig,nervous,Ich bin nervös vor der Prüfung.,I am nervous before the exam.
+224,nett,unfreundlich,nice,Er ist ein netter Mann.,He is a nice man.
+225,neu,alt,new,Ich habe ein neues Auto.,I have a new car.
+226,neugierig,desinteressiert,curious,Sie ist sehr neugierig.,She is very curious.
+227,niedlich,hässlich,cute,Das Kätzchen ist niedlich.,The kitten is cute.
+228,niedrig,hoch,low,Der Preis ist sehr niedrig.,The price is very low.
+229,normal,unnormal,normal,Das ist eine normale Situation.,That is a normal situation.
+230,nötig,unnötig,necessary,Das ist nicht nötig.,That is not necessary.
+231,nutzlos,nützlich,useless,Das ist ein nutzloser Gegenstand.,That is a useless item.
+232,offen,geschlossen,open,Die Tür ist offen.,The door is open.
+233,öffentlich,privat,public,Das ist ein öffentlicher Park.,That is a public park.
+234,offiziell,inoffiziell,official,Das ist eine offizielle Erklärung.,That is an official statement.
+235,optimistisch,pessimistisch,optimistic,Er ist ein optimistischer Mensch.,He is an optimistic person.
+236,ordentlich,unordentlich,tidy,Sein Zimmer ist ordentlich.,His room is tidy.
+237,passend,unpassend,suitable,Das Kleid ist sehr passend.,The dress is very suitable.
+238,passiv,aktiv,passive,Er ist eine passive Person.,He is a passive person.
+239,peinlich,angenehm,embarrassing,Das war sehr peinlich.,That was very embarrassing.
+240,perfekt,unvollkommen,perfect,Das ist die perfekte Lösung.,That is the perfect solution.
+241,persönlich,unpersönlich,personal,Das ist meine persönliche Meinung.,That is my personal opinion.
+242,pessimistisch,optimistisch,pessimistic,Er ist immer pessimistisch.,He is always pessimistic.
+243,praktisch,unpraktisch,practical,Das ist eine praktische Lösung.,That is a practical solution.
+244,privat,öffentlich,private,Das ist eine private Angelegenheit.,That is a private matter.
+245,professionell,laienhaft,professional,Sie ist eine professionelle Fotografin.,She is a professional photographer.
+246,pünktlich,unpünktlich,punctual,Sie ist immer pünktlich.,She is always punctual.
+247,qualifiziert,unqualifiziert,qualified,Er ist qualifiziert für den Job.,He is qualified for the job.
+248,realistisch,unrealistisch,realistic,Das ist eine realistische Einschätzung.,That is a realistic assessment.
+249,reell,fiktiv,"real, actual",Das ist eine reelle Chance.,That is a real chance.
+250,regelmäßig,unregelmäßig,regular,Ich gehe regelmäßig zum Sport.,I go to sports regularly.
+251,reich,arm,rich,Er ist ein reicher Mann.,He is a rich man.
+252,reichlich,knapp,plenty of,Es gibt reichlich zu essen.,There is plenty of food.
+253,respektvoll,respektlos,respectful,Er ist respektvoll.,He is respectful.
+254,richtig,falsch,"right, correct",Die Antwort ist richtig.,The answer is correct.
+255,romantisch,unromantisch,romantic,Der Film ist romantisch.,The film is romantic.
+256,ruhig,unruhig,"calm, quiet",Er ist ein ruhiger Mensch.,He is a calm person.
+257,sachlich,emotional,"factual, objective",Er gibt eine sachliche Antwort.,He gives a factual answer.
+258,sanft,hart,"gentle, soft",Sie hat eine sanfte Stimme.,She has a gentle voice.
+259,sauber,schmutzig,clean,Das Zimmer ist sauber.,The room is clean.
+260,sauer,süß,sour,Die Zitrone ist sauer.,The lemon is sour.
+261,scharf,unscharf,"sharp, spicy",Die Suppe ist zu scharf.,The soup is too spicy.
+262,schlecht,gut,bad,Das ist eine schlechte Nachricht.,That is a bad message.
+263,schlimm,harmlos,"bad, serious",Die Verletzung ist nicht schlimm.,The injury is not serious.
+264,schmutzig,sauber,dirty,Die Schuhe sind schmutzig.,The shoes are dirty.
+265,schnell,langsam,fast,Er fährt sehr schnell.,He drives very fast.
+266,schön,hässlich,beautiful,Die Stadt ist schön.,The city is beautiful.
+267,schrecklich,herrlich,terrible,Das Wetter ist schrecklich.,The weather is terrible.
+268,schüchtern,selbstbewusst,shy,Sie ist ein schüchternes Kind.,She is a shy child.
+269,schwer,leicht,"heavy, difficult",Die Tasche ist schwer.,The bag is heavy.
+270,schwierig,leicht,difficult,Die Prüfung ist sehr schwierig.,The exam is very difficult.
+271,sicher,unsicher,"safe, sure",Du kannst sicher sein.,You can be sure.
+272,sinnvoll,sinnlos,meaningful,Das ist eine sinnvolle Idee.,That is a meaningful idea.
+273,sofort,später,immediately,Ich komme sofort.,I am coming immediately.
+274,solid,instabil,"solid, strong",Das Haus ist sehr solid.,The house is very solid.
+275,sonnig,bewölkt,sunny,Es ist ein sonniger Tag.,It is a sunny day.
+276,sozial,asozial,social,Er ist ein sozialer Mensch.,He is a social person.
+277,spannend,langweilig,"exciting, thrilling",Das Buch ist sehr spannend.,The book is very exciting.
+278,spät,früh,late,Er ist spät zur Party gekommen.,He came to the party late.
+279,spontan,geplant,spontaneous,Wir haben einen spontanen Ausflug gemacht.,We went on a spontaneous trip.
+280,sportlich,unsportlich,"sporty, athletic",Er ist sehr sportlich.,He is very sporty.
+281,stabil,instabil,stable,Die Brücke ist stabil.,The bridge is stable.
+282,stark,schwach,strong,Er ist ein starker Mann.,He is a strong man.
+283,still,laut,"silent, still",Das Wasser ist still.,The water is still.
+284,stolz,beschämt,proud,Ich bin stolz auf dich.,I am proud of you.
+285,streng,locker,strict,Der Lehrer ist streng.,The teacher is strict.
+286,süß,"sauer, bitter",sweet,Der Kuchen ist süß.,The cake is sweet.
+287,sympathisch,unsympathisch,"likable, nice",Sie ist sehr sympathisch.,She is very likable.
+288,tatsächlich,fiktiv,actual,Das ist tatsächlich passiert.,That actually happened.
+289,technisch,untechnisch,technical,Er hat technische Probleme.,He has technical problems.
+290,teuer,billig,expensive,Das Auto ist teuer.,The car is expensive.
+291,tief,flach,deep,Der See ist sehr tief.,The lake is very deep.
+292,toll,furchtbar,"great, cool",Das ist eine tolle Idee.,That is a great idea.
+293,traurig,glücklich,sad,Sie ist traurig.,She is sad.
+294,treu,untreu,"loyal, faithful",Er ist ein treuer Freund.,He is a loyal friend.
+295,trocken,nass,dry,Die Kleidung ist trocken.,The clothes are dry.
+296,typisch,untypisch,typical,Das ist typisch für ihn.,That is typical for him.
+297,übel,wohl,"sick, nauseous",Mir ist übel.,I feel sick.
+298,unabhängig,abhängig,independent,Er ist unabhängig.,He is independent.
+299,unbedingt,ungern,absolutely,Das muss unbedingt gemacht werden.,That absolutely has to be done.
+300,unbequem,bequem,uncomfortable,Der Stuhl ist unbequem.,The chair is uncomfortable.
+301,unfreundlich,freundlich,unfriendly,Er ist unfreundlich.,He is unfriendly.
+302,ungeduldig,geduldig,impatient,Er ist sehr ungeduldig.,He is very impatient.
+303,ungefähr,genau,approximate,Es dauert ungefähr eine Stunde.,It takes approximately one hour.
+304,ungesund,gesund,unhealthy,Fast Food ist ungesund.,Fast food is unhealthy.
+305,unglaublich,glaubhaft,unbelievable,Das ist unglaublich.,That is unbelievable.
+306,unhöflich,höflich,impolite,Er ist unhöflich zu seinen Kollegen.,He is impolite to his colleagues.
+307,unmöglich,möglich,impossible,Das ist unmöglich.,That is impossible.
+308,unordentlich,ordentlich,messy,Dein Zimmer ist unordentlich.,Your room is messy.
+309,unruhig,ruhig,"restless, uneasy",Er war unruhig.,He was restless.
+310,unsicher,sicher,"unsure, unsafe",Die Lage ist unsicher.,The situation is unsafe.
+311,unwichtig,wichtig,unimportant,Das ist eine unwichtige Information.,That is an unimportant piece of information.
+312,verantwortlich,unverantwortlich,responsible,Er ist für das Projekt verantwortlich.,He is responsible for the project.
+313,verrückt,normal,crazy,Du bist verrückt!,You are crazy!
+314,verschieden,gleich,different,Die Meinungen sind verschieden.,The opinions are different.
+315,vorsichtig,unvorsichtig,careful,Sei vorsichtig!,Be careful!
+316,wach,müde,awake,Ich bin noch wach.,I am still awake.
+317,wahr,falsch,TRUE,Das ist die wahre Geschichte.,That is the true story.
+318,warm,kalt,warm,Es ist sehr warm heute.,It is very warm today.
+319,weich,hart,soft,Das Kissen ist weich.,The pillow is soft.
+320,weit,eng,far,Die Stadt ist weit entfernt.,The city is far away.
+321,wenig,viel,"little, few",Ich habe wenig Zeit.,I have little time.
+322,wertvoll,wertlos,valuable,Das ist ein wertvoller Stein.,That is a valuable stone.
+323,wichtig,unwichtig,important,Das ist sehr wichtig.,That is very important.
+324,willkürlich,geplant,arbitrary,Das war eine willkürliche Entscheidung.,That was an arbitrary decision.
+325,wirklich,unwirklich,"real, true",Das ist wirklich der Fall.,That is truly the case.
+326,wunderbar,furchtbar,wonderful,Die Aussicht ist wunderbar.,The view is wonderful.
+327,zeitlich,zeitlos,temporal,Wir haben zeitliche Probleme.,We have temporal problems.
+328,zentral,dezentral,central,Das Hotel liegt sehr zentral.,The hotel is very centrally located.
+329,zufrieden,unzufrieden,satisfied,Ich bin sehr zufrieden.,I am very satisfied.
+330,zusätzlich,fehlend,additional,Ich brauche zusätzliche Informationen.,I need additional information.
+331,zwecklos,sinnvoll,pointless,Es ist zwecklos.,It is pointless.
+332,zweisprachig,einsprachig,bilingual,Ich bin zweisprachig.,I am bilingual.
+333,,,,,
+334,,,,,
+335,,,,,
+336,,,,,
+337,,,,,
+338,,,,,
+339,,,,,
+340,,,,,
+341,,,,,
+342,,,,,
+343,,,,,
+344,,,,,
+345,,,,,
+346,,,,,
+347,,,,,
+348,,,,,
+349,,,,,
+350,,,,,
+351,,,,,
+352,,,,,
+353,,,,,
+354,,,,,
+355,,,,,
+356,,,,,
+357,,,,,
+358,,,,,
+359,,,,,
+360,,,,,
+361,,,,,
+362,,,,,
+363,,,,,
+364,,,,,
+365,,,,,
+366,,,,,
+367,,,,,
+368,,,,,
+369,,,,,
+370,,,,,
+371,,,,,
+372,,,,,
+373,,,,,
+374,,,,,
+375,,,,,
+376,,,,,
+377,,,,,
+378,,,,,
+379,,,,,
+380,,,,,
+381,,,,,
+382,,,,,
+383,,,,,
+384,,,,,
+385,,,,,
+386,,,,,
+387,,,,,
+388,,,,,
+389,,,,,
+390,,,,,
+391,,,,,
+392,,,,,
+393,,,,,
+394,,,,,
+395,,,,,
+396,,,,,
+397,,,,,
+398,,,,,
+399,,,,,
+400,,,,,
+401,,,,,
+402,,,,,
+403,,,,,
+404,,,,,
+405,,,,,
+406,,,,,
+407,,,,,
+408,,,,,
+409,,,,,
+410,,,,,
+411,,,,,
+412,,,,,
+413,,,,,
+414,,,,,
+415,,,,,
+416,,,,,
+417,,,,,
+418,,,,,
+419,,,,,
+420,,,,,
+421,,,,,
+422,,,,,
+423,,,,,
+424,,,,,
+425,,,,,
+426,,,,,
+427,,,,,
+428,,,,,
+429,,,,,
+430,,,,,
+431,,,,,
+432,,,,,
+433,,,,,
+434,,,,,
+435,,,,,
+436,,,,,
+437,,,,,
+438,,,,,
+439,,,,,
+440,,,,,
+441,,,,,
+442,,,,,
+443,,,,,
+444,,,,,
+445,,,,,
+446,,,,,
+447,,,,,
+448,,,,,
+449,,,,,
+450,,,,,
+451,,,,,
+452,,,,,
+453,,,,,
+454,,,,,
+455,,,,,
+456,,,,,
+457,,,,,
+458,,,,,
+459,,,,,
+460,,,,,
+461,,,,,
+462,,,,,
+463,,,,,
+464,,,,,
+465,,,,,
+466,,,,,
+467,,,,,
+468,,,,,
+469,,,,,
+470,,,,,
+471,,,,,
+472,,,,,
+473,,,,,
+474,,,,,
+475,,,,,
+476,,,,,
+477,,,,,
+478,,,,,
+479,,,,,
+480,,,,,
+481,,,,,
+482,,,,,
+483,,,,,
+484,,,,,
+485,,,,,
+486,,,,,
+487,,,,,
+488,,,,,
+489,,,,,
+490,,,,,
+491,,,,,
+492,,,,,
+493,,,,,
+494,,,,,
+495,,,,,
+496,,,,,
+497,,,,,
+498,,,,,
+499,,,,,
+500,,,,,
+501,,,,,
+502,,,,,
+503,,,,,
+504,,,,,
+505,,,,,
+506,,,,,
+507,,,,,
+508,,,,,
+509,,,,,
+510,,,,,
+511,,,,,
+512,,,,,
+513,,,,,
+514,,,,,
+515,,,,,
+516,,,,,
+517,,,,,
+518,,,,,
+519,,,,,
+520,,,,,
+521,,,,,
+522,,,,,
+523,,,,,
+524,,,,,
+525,,,,,
+526,,,,,
+527,,,,,
+528,,,,,
+529,,,,,
+530,,,,,
+531,,,,,
+532,,,,,
+533,,,,,
+534,,,,,
+535,,,,,
+536,,,,,
+537,,,,,
+538,,,,,
+539,,,,,
+540,,,,,
+541,,,,,
+542,,,,,
+543,,,,,
+544,,,,,
+545,,,,,
+546,,,,,
